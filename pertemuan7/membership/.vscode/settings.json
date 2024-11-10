@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "views/main",
+        "src/view/main"
+    ]
+}
